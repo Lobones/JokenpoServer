@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="JokenpoServer:jar">
+    <output-path>$PROJECT_DIR$/../Output</output-path>
+    <root id="archive" name="JokenpoServer.jar">
+      <element id="module-output" name="JokenpoServer" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Dependencies/netty-all-4.1.66.Final.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
